@@ -1,0 +1,17 @@
+{
+    "name": "encodesanscondensed-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Impallari Type"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/encodesanscondensed-bower.git"
+    },
+    "description": "Encode Sans Condensed font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
